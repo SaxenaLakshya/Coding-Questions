@@ -2,7 +2,7 @@
 // Write a C Program to take elements as input from user and print it in Matrix Form
 void main(void)
 {
-    int a[10][10], b[10][10], ans[10][10];
+    int a[10][10];
     int r, c;
     printf("Enter number of Rows and Column...\n");
     scanf("%d %d",&r,&c);
